@@ -1,3 +1,5 @@
+// go test -bench=Echo -benchmem
+
 package ch1
 
 import (
